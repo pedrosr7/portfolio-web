@@ -14,7 +14,7 @@ portfolio-web/
 └── assets/
     ├── styles.css        # design system (shared by both languages)
     ├── app.js            # nav, mobile menu, scroll-reveal
-    ├── pedro-sanchez-ramirez-cv.pdf
+    ├── pedro-sanchez-ramirez-cv-en.pdf · -es.pdf  (built from Pampa/cv, not in this repo)
     └── captures/         # real Aura screenshots reused for the case study
         ├── aura-pulse.png · aura-planning.png · aura-insights.png (shown)
         └── aura-coach.png · aura-log.png · aura-newsession.png (spare)
