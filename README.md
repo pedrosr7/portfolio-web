@@ -31,7 +31,7 @@ portfolio-web/
 
 ## Content sources
 
-- Experience, education, certs, languages: from the CV (`assets/pedro-sanchez-ramirez-cv.pdf`).
+- Experience, education, certs, languages: from the CV (`assets/pedro-sanchez-ramirez-cv-{en,es}.pdf`, built from `Pampa/cv/`).
 - Aura: the owner's own product (KMP + Compose Multiplatform + Ktor + AI). Screenshots reused from `aura-web`.
 - Polymarket: client work (via The Left Bit) — described at a high level, **no proprietary detail
   or internal screenshots** by design.
