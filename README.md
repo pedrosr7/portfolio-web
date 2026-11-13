@@ -25,7 +25,7 @@ portfolio-web/
 - **Fonts:** Space Grotesk (display) · Inter (body) · JetBrains Mono (labels/code) — Google Fonts CDN.
 - **Palette:** bg `#0A0E14`, text `#E8EDF4`, accent `#3DDC84`. Dark only.
 - **Sections:** hero (terminal card) → featured work (Aura case study w/ real screenshots,
-  Polymarket cross-platform w/ a hand-authored SVG pipeline diagram) → experience timeline
+  Polymarket Android case with a hand-authored iOS-parity SVG diagram, a "how I work with AI" section and a problems-solved section) → experience timeline
   → skills → about + education → contact.
 - No framework, no build step. `styles.css` + `app.js` are shared across both language files.
 
