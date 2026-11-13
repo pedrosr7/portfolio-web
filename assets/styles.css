@@ -464,3 +464,5 @@ section { position: relative; padding-block: clamp(64px, 9vw, 120px); }
   .phone { --w: 150px !important; }
   .phones .phone:nth-child(1), .phones .phone:nth-child(3) { --w: 128px !important; }
 }
+
+.client-card p b { color: var(--text); font-weight: 600; }
